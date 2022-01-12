@@ -84,7 +84,7 @@ button.foodType{
     position: relative; top: 80px;
     float: left;
     background-color: honeydew;
-    flex: 3;
+    width: 30%;
     min-height: 280px;
 }
 .cuisineouterBox{
@@ -98,7 +98,4 @@ button.foodType{
 .cuisineBox{
     height: 120px;
     width: 120px;
-}
-.F1b{
-    display: flex;
 }
